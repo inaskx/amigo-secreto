@@ -9,12 +9,16 @@ Es un ejercicio práctico pensado para **fortalecer la lógica de programación*
 ## 🚀 Características
 
 - Permite agregar nombres a la lista de amigos.
+
+![Demo del juego](assets/anadir-amigo.gif)
+
 - Valida que los nombres:
   - No estén vacíos.
   - Contengan solo letras y espacios.
   - No se repitan en la lista.
 - Muestra la lista de amigos en la pantalla.
 - Sortea al azar un nombre como **amigo secreto**.
+  ![Demo del juego](assets/sorteo.gif)
 - Finaliza el juego después del sorteo:
   - Se bloquea el input y los botones.
   - Se muestra un mensaje con el resultado.
